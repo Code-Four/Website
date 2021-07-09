@@ -1,5 +1,8 @@
 {
-    "content url" : {
-        "Memory and Data Storage" : "https://drive.google.com/file/d/1g5rCsjkj4OWOarW66ABrUzgo4LJMFhTy/view?usp=sharing"
-    }
+    "content url" : [
+        {
+            "name": "Memory and Data Storage",
+            "url": "https://drive.google.com/file/d/1g5rCsjkj4OWOarW66ABrUzgo4LJMFhTy/view?usp=sharing"
+        }
+    ]
 }
