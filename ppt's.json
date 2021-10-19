@@ -5,16 +5,52 @@
             "url": "https://drive.google.com/file/d/1g5rCsjkj4OWOarW66ABrUzgo4LJMFhTy/view?usp=sharing"
         },
         {
-            "name":"Security and ethics",
+            "name":"Security and Ethics part 1",
             "url":"https://drive.google.com/file/d/1RXVG_RboNjWQxH1uDMJaLNKt268xG7gX/view?usp=sharing"
         },
         {
-            "name":"Pseudocode basics - ep2",
+            "name":"Pseudocode basics - Part 1",
+            "url":"https://drive.google.com/file/d/1E96IHUdRX1w1AFri36_SrT3y96Hfmj1u/view?usp=sharing"
+        },
+        {
+            "name":"Pseudocode basics - Part 2",
             "url":"https://drive.google.com/file/d/154BG2t-GMH_FMPnUC1Z5dFwPicnlgVU1/view?usp=sharing"
         },
         {
             "name":"Pre-release faq's",
             "url":"https://drive.google.com/file/d/10PHY0lg8dXLK2fn_-WHdqUNJGjQNKlKs/view?usp=sharing"
+        },
+        {
+            "name":"Communication and Internet technologies",
+            "url":"https://drive.google.com/file/d/1mGgUn7bRDu1vwYhP0pp2rohw4cyFZq4W/view?usp=sharing"
+        },
+        {
+            "name":"Communication and internet technologies FAQs",
+            "url":"https://drive.google.com/file/d/1J12O8zgK84My8YkmsdIcwrCR4qFXBMTA/view?usp=sharing"
+        },
+        {
+            "name":"Binary systems and hexadecimal FAQs",
+            "url":"https://drive.google.com/file/d/1DtaYf7AUgMknz4sxjtAtWGZJH5d6uuGz/view?usp=sharing"
+        },
+        {
+            "name":"Operating systems and computer architecture FAQs",
+            "url":"https://drive.google.com/file/d/13gyLIfvv85IowUQKaMEPF5c0uMx_DJM3/view?usp=sharing"
+        },
+        {
+            "name":"Security and ethics FAQs",
+            "url":"https://drive.google.com/file/d/1x8EmYd8WuHPDRUU7ENpOV1hKzWRwiJ-A/view?usp=sharing"
+        },
+        {
+            "name":"High and low-level languages FAQs",
+            "url":"https://drive.google.com/file/d/1Sd8ONkLEAKsX3BVao9efZ2np9BhjtElM/view?usp=sharing"
+        },
+        {
+            "name":"Memory and data storage FAQs",
+            "url":"https://drive.google.com/file/d/1l_tZh228tRzWNnXx5w5d9VQK40ZLqi8Q/view?usp=sharing"
+        },
+        {
+            "name":"(BONUS VIDEO) ALL CHAPTERS COMBINED",
+            "url":"https://drive.google.com/file/d/1QhEzAiLhNigr2bHlZ4m3SNbnetiUHZn7/view?usp=sharing"
         }
     ]
 }
